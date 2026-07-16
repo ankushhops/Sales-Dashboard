@@ -83,5 +83,8 @@ Power Query
 DAX
 Data Modeling
 KPI Analysis
+
+Screenshort / Demo
+https://github.com/ankushhops/Sales-Dashboard/blob/main/Sales%20Dashboard.png
 Business Intelligence
 Sales Performance Analysis
