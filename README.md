@@ -1,4 +1,4 @@
-#Project Title
+Project Title
 
 Motorola Mobile Sales Performance Dashboard using Power BI
 
