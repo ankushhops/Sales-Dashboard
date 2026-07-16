@@ -12,46 +12,74 @@ This project is an interactive Power BI dashboard that analyzes Motorola mobile 
 
 Purpose
 
-Monitor overall sales performance.
-Analyze sales trends across different months.
-Identify top-performing cities and mobile models.
-Understand customer purchasing behavior.
-Compare payment methods used by customers.
-Support data-driven business decisions.
+-Monitor overall sales performance.
+
+-Analyze sales trends across different months.
+
+-Identify top-performing cities and mobile models.
+
+-Understand customer purchasing behavior.
+
+-Compare payment methods used by customers.
+
+-Support data-driven business decisions.
 
 Technologies Used
 
-Power BI Desktop
-Microsoft Excel
-Power Query
-DAX (Data Analysis Expressions)
-Data Modeling
-Interactive Filters and Slicers
+-Power BI Desktop
+
+-Microsoft Excel
+
+-Power Query
+
+-DAX (Data Analysis Expressions)
+
+-Data Modeling
+
+-Interactive Filters and Slicers
 
 Charts Used
 
-KPI Cards (Total Sales, Total Quantity, Transactions, Average Sales)
-Treemap (Total Sales by City)
-Line Chart (Total Quantity by Month)
-Funnel Chart (Customer Ratings)
-Pie Chart (Transactions by Payment Method)
-Bar Chart (Total Sales by Mobile Model)
-Line Chart (Total Sales by Day Name)
-Table (Brand-wise Sales Summary)
-Slicers (Month, Mobile Model, Brand, Payment Method, Day Name)
+-KPI Cards (Total Sales, Total Quantity, Transactions, Average Sales)
+
+-Treemap (Total Sales by City)
+
+-Line Chart (Total Quantity by Month)
+
+-Funnel Chart (Customer Ratings)
+
+-Pie Chart (Transactions by Payment Method)
+
+-Bar Chart (Total Sales by Mobile Model)
+
+
+-Line Chart (Total Sales by Day Name)
+
+-Table (Brand-wise Sales Summary)
+
+-Slicers (Month, Mobile Model, Brand, Payment Method, Day Name)
 
 Features
 
-Interactive dashboard with dynamic filters
-City-wise sales analysis
-Monthly sales trend analysis
-Mobile model performance comparison
-Customer rating analysis
-Payment method analysis
-Brand-wise sales summary
-KPI cards for quick business insights
-Cross-filtering across all visuals
-Clean and user-friendly dashboard design
+-Interactive dashboard with dynamic filters
+
+-City-wise sales analysis
+
+-Monthly sales trend analysis
+
+-Mobile model performance comparison
+
+-Customer rating analysis
+
+-Payment method analysis
+
+-Brand-wise sales summary
+
+-KPI cards for quick business insights
+
+-Cross-filtering across all visuals
+
+-Clean and user-friendly dashboard design
 
 Highlights
 
@@ -83,8 +111,9 @@ Power Query
 DAX
 Data Modeling
 KPI Analysis
-
-Screenshort / Demo
-https://github.com/ankushhops/Sales-Dashboard/blob/main/Sales%20Dashboard.png
 Business Intelligence
 Sales Performance Analysis
+
+Screenshort / Demo
+
+![screenshort](https://github.com/ankushhops/Sales-Dashboard/blob/main/Sales%20Dashboard.png)
